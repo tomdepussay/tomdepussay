@@ -16,7 +16,7 @@ Je suis débutant dans tous les languages ci-dessus sauf Python appris en cours 
 
 # Me contacter
 
-Linkedin : https://www.linkedin.com/in/tom-depussay-a58382238
+Linkedin : https://www.linkedin.com/in/tom-depussay-a58382238 </br>
 Gmail : depussay.tom1@gmail.com
 
 
