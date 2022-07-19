@@ -22,6 +22,6 @@ Gmail : depussay.tom1@gmail.com
 
 # Mes projets 
 
-## Quizz
+## <a href="https://github.com/tomdepussay/quizz">Quizz</a>
 
 Mon premier projet et le seul pour le moment, un site de quizz sur des thèmes comme les mangas ou les animés. Gérer avec PHP et MYSQL ce site m'a permis d'apprendre et de m'exercer avec ces languages.
