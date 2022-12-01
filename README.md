@@ -8,6 +8,7 @@ Je suis à la recherche d'une alternance pour effectuer un BTS SIO.
 
 - HTML / CSS
 - PHP / MYSQL
+- Java
 - Javascript
 - Python
 
