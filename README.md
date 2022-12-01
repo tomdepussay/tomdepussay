@@ -31,3 +31,8 @@ Mon premier projet et le seul pour le moment, un site de quizz sur des thèmes c
 ## <a href="https://github.com/tomdepussay/demineur">Démineur</a>
 
 Un petit projet de démineur fait sur JAVA.
+
+
+## <a href="https://github.com/tomdepussay/convertisseur">Convertisseur</a>
+
+Un site internet permettant de convertir simplement un nombre d'un base à une autre (entre la base 2, 8, 10, 16). Fait en HTML, CSS et JavaScript.
