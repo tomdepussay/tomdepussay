@@ -1,6 +1,6 @@
 # A propos de moi
 
-Bonjour, je m'appelle Tom Depussay, je suis un développeur débutant. J'ai appris les bases des languages de programmation moi-même.
+Bonjour, je m'appelle Tom Depussay, je suis un développeur débutant. J'ai appris les bases des languages de programmation par moi-même.
 Je suis en 1er année de BTS SIO option SLAM et je suis à la recherche d'un stage d'un mois du 9 mai au 9 juin.
 
 
