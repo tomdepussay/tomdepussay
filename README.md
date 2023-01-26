@@ -1,7 +1,7 @@
 # A propos de moi
 
-Bonjour, je m'appelle Tom Depussay, je suis un développeur débutant. J'ai appris les bases des principaux language de programmation moi-même.
-Je suis à la recherche d'une alternance pour effectuer un BTS SIO. 
+Bonjour, je m'appelle Tom Depussay, je suis un développeur débutant. J'ai appris les bases des languages de programmation moi-même.
+Je suis à la recherche d'un stage pour finaliser mon BTS SIO. 
 
 
 # Mes compétences
