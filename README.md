@@ -44,14 +44,20 @@ Un site internet permettant de convertir simplement un nombre d'un base à une a
 ## <a href="https://github.com/tomdepussay/typing-test">Typing Test</a>
 
 Un site permettant de réaliser un test de dactylographie avec des mots pris aléatoirement dans une liste. Le site est fait un HTML, CSS et JavaScript.
+J'ai ajouté du PHP et MYSQL afin de sauvegarder les scores des différentes personnes et de pouvoir afficher un tableau des meilleurs scores.
 
 ### Capture d'écran pris pendant le test :
 
-![Capture d'écran_20230110_093422](https://user-images.githubusercontent.com/109548814/211501739-90c760c5-b914-4045-bc20-2ce8d0a11fc6.png)
+![Capture d'écran_20230126_085717](https://user-images.githubusercontent.com/109548814/214785445-38c56e0d-1ad8-44e5-b946-8b58f2ddc0a9.png)
 
 ### Capture d'écran pris après le test : 
 
-![Capture d'écran_20230110_093526](https://user-images.githubusercontent.com/109548814/211501813-a0c8591e-1580-4067-a734-8425a4b48e69.png)
+![Capture d'écran_20230126_090053](https://user-images.githubusercontent.com/109548814/214785370-c6132a7c-49eb-4c70-a378-4ad5001eb0eb.png)
+
+### Capture d'écran pris sur la page des meilleurs scores :
+
+![Capture d'écran_20230126_085738](https://user-images.githubusercontent.com/109548814/214785468-508d6e7c-75d2-401a-a4e5-1ffa0769f71d.png)
+
 
 
 
