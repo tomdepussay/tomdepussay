@@ -25,12 +25,12 @@ Gmail : depussay.tom1@gmail.com
 
 ## <a href="https://github.com/tomdepussay/quizz">Quizz</a>
 
-Mon premier projet, un site de quizz sur des thèmes comme les mangas ou les animés. Gérer avec PHP et MYSQL ce site m'a permis d'apprendre et de m'exercer avec ces languages.
+Mon premier projet, un site de quizz sur des thèmes comme les mangas ou les animés. Géré avec PHP et MYSQL ce site m'a permis d'apprendre et de m'exercer avec ces languages.
 
 
 ## <a href="https://github.com/tomdepussay/demineur">Démineur</a>
 
-Un petit projet de démineur fait sur JAVA.
+Un petit projet de démineur fait en JAVA.
 
 ![demineur](https://user-images.githubusercontent.com/109548814/205096287-307d9470-22d5-410a-a101-ce3868694d15.png)
 
