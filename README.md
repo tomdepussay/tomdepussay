@@ -48,18 +48,14 @@ J'ai ajouté du PHP et MYSQL afin de sauvegarder les scores des différentes per
 
 ### Capture d'écran pris pendant le test :
 
-![Capture d'écran_20230126_085717](https://user-images.githubusercontent.com/109548814/214785445-38c56e0d-1ad8-44e5-b946-8b58f2ddc0a9.png)
+![game](https://user-images.githubusercontent.com/109548814/218255837-3e93f9c7-f09b-4c45-af96-b80d09f7578f.PNG)
 
 ### Capture d'écran pris après le test : 
 
-![Capture d'écran_20230126_090053](https://user-images.githubusercontent.com/109548814/214785370-c6132a7c-49eb-4c70-a378-4ad5001eb0eb.png)
+![resultat](https://user-images.githubusercontent.com/109548814/218255853-18285f24-2106-49d7-9720-c75675977cd4.PNG)
 
 ### Capture d'écran pris sur la page des meilleurs scores :
 
-![Capture d'écran_20230126_085738](https://user-images.githubusercontent.com/109548814/214785468-508d6e7c-75d2-401a-a4e5-1ffa0769f71d.png)
-
-
-
-
+![highscores](https://user-images.githubusercontent.com/109548814/218255859-2fa416a1-d7fd-481a-abec-ad79de9e1e6f.PNG)
 
 
