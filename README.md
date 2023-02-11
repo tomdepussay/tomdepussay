@@ -43,7 +43,7 @@ Un site internet permettant de convertir simplement un nombre d'un base à une a
 
 ## <a href="https://github.com/tomdepussay/typing-test">Typing Test</a>
 
-Accès en ligne pour le site de Typing Test : 51.15.218.4
+Accès en ligne pour le site de Typing Test wa href="51.15.218.4">cliquez ici</a>
 
 Un site permettant de réaliser un test de dactylographie avec des mots pris aléatoirement dans une liste. Le site est fait un HTML, CSS et JavaScript.
 J'ai ajouté du PHP et MYSQL afin de sauvegarder les scores des différentes personnes et de pouvoir afficher un tableau des meilleurs scores.
