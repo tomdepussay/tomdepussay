@@ -23,6 +23,14 @@ Gmail : depussay.tom1@gmail.com
 
 # Mes projets 
 
+## <a href="https://github.com/tomdepussay/portfolio">Portfolio</a>
+
+Mon Portfolio réalisé en HTML, CSS et JavaScript afin de mettre en avant mes projets.
+
+
+https://user-images.githubusercontent.com/109548814/230725720-672d33ff-038c-4a81-8789-5dd1c016a4d5.mp4
+
+
 ## <a href="https://github.com/tomdepussay/quizz">Quizz</a>
 
 Mon premier projet, un site de quizz sur des thèmes comme les mangas ou les animés. Géré avec PHP et MYSQL ce site m'a permis d'apprendre et de m'exercer avec ces languages.
