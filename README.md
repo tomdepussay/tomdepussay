@@ -27,8 +27,10 @@ Gmail : depussay.tom1@gmail.com
 
 Mon Portfolio réalisé en HTML, CSS et JavaScript afin de mettre en avant mes projets.
 
+<a href="http://51.15.218.4" target="_blank">Cliquez-ici</a> pour accèder à mon Portfolio en ligne.
 
-https://user-images.githubusercontent.com/109548814/230725720-672d33ff-038c-4a81-8789-5dd1c016a4d5.mp4
+
+https://user-images.githubusercontent.com/109548814/233153641-65c13036-23d4-429f-a6f6-0c4c4958c402.mp4
 
 
 ## <a href="https://github.com/tomdepussay/quizz">Quizz</a>
@@ -51,7 +53,7 @@ Un site internet permettant de convertir simplement un nombre d'un base à une a
 
 ## <a href="https://github.com/tomdepussay/typing-test">Typing Test</a>
 
-Accès en ligne pour le site de Typing Test <a href="http://51.15.218.4" target="_blank">cliquez ici</a>
+Accès en ligne pour le site de Typing Test <a href="http://51.15.218.4/typing" target="_blank">cliquez ici</a>
 
 Un site permettant de réaliser un test de dactylographie avec des mots pris aléatoirement dans une liste. Le site est fait un HTML, CSS et JavaScript.
 J'ai ajouté du PHP et MYSQL afin de sauvegarder les scores des différentes personnes et de pouvoir afficher un tableau des meilleurs scores.
