@@ -25,8 +25,8 @@ Gmail : depussay.tom1@gmail.com
 
 ## <a href="https://github.com/tomdepussay/maze">Labyrinthe</a>
 
-Un générateur et de résolution de labyrinthe fait en JavaScript. 
-L'algorithme de génération du labyrinthe est : Kruskal's Algorithm
+Un générateur et de résolution de labyrinthe fait en JavaScript. <br>
+L'algorithme de génération du labyrinthe est : Kruskal's Algorithm <br>
 L'algorithme de résolution du labyrinthe est : Algorithme de parcours en largeur
 
 ![image](https://github.com/tomdepussay/tomdepussay/assets/109548814/1a2e657a-8e3e-49a1-9b84-f4d55b3ae826)
