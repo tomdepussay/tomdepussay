@@ -12,8 +12,6 @@ Je suis en 1er année de BTS SIO option SLAM et je suis à la recherche d'un sta
 - Javascript
 - Python
 
-Je suis débutant dans tous les languages ci-dessus sauf Python appris en cours de première et de terminale avec l'option NSI.
-
 
 # Me contacter
 
