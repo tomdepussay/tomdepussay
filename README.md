@@ -21,6 +21,13 @@ Gmail : depussay.tom1@gmail.com
 
 # Mes projets 
 
+## <a href="https://github.com/tomdepussay/demineur">Démineur</a>
+
+Un démineur fait en HTML, CSS et JavaScript.
+
+![image](https://github.com/tomdepussay/tomdepussay/assets/109548814/ef7bbe42-d2ca-4f66-a699-5a1d02be7d99)
+
+
 ## <a href="https://github.com/tomdepussay/maze">Labyrinthe</a>
 
 Un générateur et de résolution de labyrinthe fait en JavaScript. <br>
