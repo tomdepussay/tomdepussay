@@ -11,6 +11,8 @@ Je suis en seconde année de BTS SIO option SLAM.
 - Java
 - Javascript
 - Python
+- NodeJS
+- React
 
 
 # Me contacter
