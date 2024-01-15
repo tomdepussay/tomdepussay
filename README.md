@@ -6,14 +6,11 @@ Je suis en seconde année de BTS SIO option SLAM.
 
 # Mes compétences
 
-- HTML / CSS
-- PHP / MYSQL
-- Java
-- Javascript
+- React / NodeJS
+- Symfony
+- SQL
 - Python
-- NodeJS
-- React
-
+- Java
 
 # Me contacter
 
